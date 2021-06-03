@@ -61,3 +61,11 @@ Source: https://stackabuse.com/bubble-sort-in-python
 
 Aenean ac condimentum nulla. Proin non semper diam. Suspendisse luctus ligula in ligula imperdiet, ut dictum orci sodales. Sed sodales metus id cursus suscipit. Sed nec mi vel est varius congue. Maecenas gravida ipsum dolor, in aliquam justo ullamcorper sed. Duis nunc augue, tincidunt sed tincidunt at, mollis a orci. Nunc tempus metus nec tincidunt vehicula. Donec volutpat vel lacus vitae sagittis. Nulla in vulputate nulla. Nunc id consectetur ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. In ante arcu, facilisis sed enim at, gravida ultrices lectus. Phasellus in neque lacus. Integer consectetur, arcu pellentesque tempus consequat, magna dui imperdiet leo, id gravida massa felis eu magna.
 
+
+## Literatur
+
+Corman, V. M., Landt, O., Kaiser, M., Molenkamp, R., Meijer, A., Chu, D. K., ... & Drosten, C. (2020). Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR. Eurosurveillance, 25(3), 2000045.
+
+Meußdoerffer, F., Zarnkow, M. (2014). Das Bier: Eine Geschichte von Hopfen und Malz. Vol. 2792. CH Beck.
+
+
