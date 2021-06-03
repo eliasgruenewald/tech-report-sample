@@ -1,4 +1,4 @@
-![img1](img/img1.png)
+![img1](./img/img1.jpg)
 
 
 # PeachMirrorCODERA - An Extendable Framework for Transparency and Access
@@ -21,7 +21,7 @@ Proin ut tincidunt orci. Sed quis accumsan massa. Vivamus mauris nisi, consequat
 
 Pellentesque feugiat, nunc ut facilisis scelerisque, metus elit euismod ligula, at maximus libero tortor et odio. Suspendisse faucibus iaculis euismod. Nullam egestas diam felis, id pharetra libero vulputate at. Praesent malesuada nisi nunc, eget dignissim enim malesuada ac. Nulla tristique neque non libero mattis sollicitudin. Morbi eleifend tincidunt libero, eget blandit ipsum dignissim in. Donec vehicula vel mi in semper. Pellentesque quis fermentum enim. Donec fringilla tortor id auctor ultrices. Aliquam euismod lacus dui, ut rhoncus elit ullamcorper sit amet.
 
-![img2](img/img2.png)
+![img2](./img/img2.png)
 Abbildung 1: Vivamus mauris nisi, consequat at efficitur id, tempor sit amet risus.
 
 
